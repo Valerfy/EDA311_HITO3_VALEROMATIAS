@@ -15,7 +15,7 @@
         <?php foreach ($clavesMenu as $claveMenu): ?>
             <a href="index.php?accion=listar&tabla=<?= urlencode($claveMenu) ?>"><?= h(ucfirst($claveMenu)) ?></a>
         <?php endforeach; ?>
-        <a href="index.php?accion=explorar">Estructura BD</a>
+        
     </nav>
 </header>
 <main>

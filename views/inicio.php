@@ -8,9 +8,5 @@
             <p>Registrar, consultar, modificar, eliminar y ordenar</p>
         </a>
     <?php endforeach; ?>
-    <a class="tarjeta" href="index.php?accion=explorar">
-        <h3>Estructura de la BD</h3>
-        <p>Campos, claves primarias y claves foraneas</p>
-    </a>
 </div>
 <?php require __DIR__ . '/layout/pie.php'; ?>
