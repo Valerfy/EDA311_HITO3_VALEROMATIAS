@@ -21,5 +21,3 @@ Este proyecto consiste en una aplicación web desarrollada con PHP y MySQL para 
 6. Una vez abierta la aplicación, ingresar a la opción **Estructura BD** para comprobar la conexión con el servidor y visualizar las tablas.
 
 7. Probar las operaciones de registro, consulta, modificación y eliminación, además del ordenamiento mediante Bubble Sort.
-
-**Nota:** para que la aplicación funcione correctamente, el equipo debe tener acceso al servidor MySQL del docente.
