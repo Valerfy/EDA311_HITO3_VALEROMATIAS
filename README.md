@@ -16,8 +16,6 @@ Este proyecto consiste en una aplicación web desarrollada con PHP y MySQL para 
 
 5. Abrir el navegador e ingresar a la siguiente dirección:
 
-   `http://localhost/EXAMEN_EDA/`
+   http://localhost/EDA311_HITO3_VALEROMATIAS-main
 
-6. Una vez abierta la aplicación, ingresar a la opción **Estructura BD** para comprobar la conexión con el servidor y visualizar las tablas.
-
-7. Probar las operaciones de registro, consulta, modificación y eliminación, además del ordenamiento mediante Bubble Sort.
+6. Probar las operaciones de registro, consulta, modificación y eliminación, además del ordenamiento mediante Bubble Sort.
